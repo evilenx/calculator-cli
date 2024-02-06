@@ -34,7 +34,8 @@ Perform basic arithmetic operations directly from your terminal with this easy-t
 ### Usage
 
 Once successfully built, run the binary named `calc`:
-./calc
+
+`./calc`
 
 The application will prompt you to enter values and choose an operation accordingly. Enjoy performing quick calculations right from your terminal!
 
