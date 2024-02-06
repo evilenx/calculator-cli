@@ -1,47 +1,41 @@
-### **Calculator-cli**
+# Calculator-cli
 
-### A Simple Command Line Calculator
+## A Simple Command Line Calculator
 
-This small CLI tool allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division directly from the command line.
+Perform basic arithmetic operations directly from your terminal with this easy-to-use CLI tool.
 
-#### Features
+### Features
 
-- Easy-to-use interface
-- Perform single or multiple calculations sequentially
-- Supports addition, subtraction, multiplication, and division
+- **User-Friendly Interface:** Effortlessly execute single or multiple calculations sequentially.
+- **Arithmetic Operations:** Add, subtract, multiply, or divide with ease.
 
-#### Requirements
+### Requirements
 
-- A Unix-like operating system (tested on macOS and Linux)
-- Crystal programming language installed (version >= 1.0)
+- **Operating System:** Unix-like OS (tested on macOS and Linux)
+- **Crystal Version:** 1.0 or higher
 
-#### Installation
+### Installation
 
-First, clone the repository onto your local machine:
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/evilenx/calculator-cli
+    ```
 
-bash
+2. **Navigate to the Repository:**
+    ```bash
+    cd calculator-cli
+    ```
 
-`git clone https://github.com/evilenx
+3. **Build the Program with Crystal:**
+    ```bash
+    crystal build calculator-cli.cr
+    ```
 
-Next, change directories to the cloned repo:
+### Usage
 
-bash
-
-`cd calculator-cli`
-
-Finally, build the program using Crystal:
-
-bash
-
-`crystal build calculator-cli.cr`
-
-#### Usage
-
-Once built successfully, run the generated binary called `calc`:
-
-bash
-
-`./calc`
+Once successfully built, run the binary named `calc`:
+```bash
+./calc
 
 The application will prompt you to enter values and choose an operation accordingly. Enjoy performing quick calculations right from your terminal!
 
