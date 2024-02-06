@@ -34,7 +34,6 @@ Perform basic arithmetic operations directly from your terminal with this easy-t
 ### Usage
 
 Once successfully built, run the binary named `calc`:
-```bash
 ./calc
 
 The application will prompt you to enter values and choose an operation accordingly. Enjoy performing quick calculations right from your terminal!
@@ -53,5 +52,4 @@ shell
 
 `$ ./calc Enter value 1: 8 Enter operator (+,-,*,/): * Enter value 2: 3 Result: 24.0 Enter another value (y/n)? y Enter value 1: 9 Enter operator (+,-,*,/): / Enter value 2: 3 Result: 3.0 Enter another value (y/n)? n Goodbye!`
 
-```
 Feel free to contribute improvements, bug fixes, or feature requests. Happy calculating!
