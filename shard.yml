@@ -1,0 +1,13 @@
+name: calculator-cli
+version: 0.1.0
+
+authors:
+  - evilenx <evilenx@proton.me>
+
+targets:
+  calculator-cli:
+    main: src/calculator-cli.cr
+
+crystal: '>= 1.14.0'
+
+license: MIT

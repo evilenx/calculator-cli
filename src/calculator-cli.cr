@@ -1,4 +1,10 @@
-# calc.cr
+# TODO: Write documentation for `Calculator::Cli`
+module Calculator::Cli
+  VERSION = "0.1.0"
+
+  # TODO: Put your code here
+end
+
 
 puts "Enter the first number:"
 input = gets
@@ -43,3 +49,4 @@ else
 end
 
 puts "#{num1} #{op} #{num2} = #{result}"
+
