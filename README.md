@@ -97,33 +97,33 @@ The calculator starts in insert mode and supports the following VI-style command
 
 ### Error Handling
 - Clear error messages for:
-  - Invalid expressions
-    - Division by zero
-      - Malformed numbers
-        - Unknown operators
+- Invalid expressions
+- Division by zero
+- Malformed numbers
+- Unknown operators
 
-        ## Contributing
+## Contributing
 
-        Contributions are welcome! Feel free to:
-        - Report bugs
-        - Suggest new features
-        - Submit pull requests
-        - Improve documentation
+Contributions are welcome! Feel free to:
+- Report bugs
+- Suggest new features
+- Submit pull requests
+- Improve documentation
 
-        ## License
+## License
 
-        This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-        ## Changelog
+## Changelog
 
-        ### v0.2.0
-        - Added VI-style navigation
-        - Improved expression parsing
-        - Added operator precedence
-        - Enhanced error handling
-        - Added command history
+### v0.2.0
+- Added VI-style navigation
+- Improved expression parsing
+- Added operator precedence
+- Enhanced error handling
+- Added command history
 
-        ### v0.1.0
-        - Initial release
-        - Basic arithmetic operations
-        - Simple command-line interface
+### v0.1.0
+- Initial release
+- Basic arithmetic operations
+- Simple command-line interface
