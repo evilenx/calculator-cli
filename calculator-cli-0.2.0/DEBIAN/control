@@ -1,0 +1,9 @@
+Package: calculator-cli
+Version: 0.2.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Emanuel <>
+Description: Advanced command-line calculator with vi-like navigation
+ A Crystal-based calculator that provides advanced mathematical
+  expression parsing and vi-like navigation features.
